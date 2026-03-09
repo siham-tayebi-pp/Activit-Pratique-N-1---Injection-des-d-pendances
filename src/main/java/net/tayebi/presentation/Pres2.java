@@ -20,10 +20,10 @@ public class Pres2 {
 //   obj metier
         String metierClassName = sc.nextLine();
         Class cMetier = Class.forName(metierClassName);
-//        IMetier metier=(IMetier)  cMetier.getConstructor(IDao.class).newInstance(d);
-        IMetier metier= (IMetier)cMetier.getConstructor().newInstance();
-        Method setDao= cMetier.getDeclaredMethod("setDao", IDao.class);
-        setDao.invoke(metier, d);
+        IMetier metier=(IMetier)  cMetier.getConstructor(IDao.class).newInstance(d);
+//        IMetier metier= (IMetier)cMetier.getConstructor().newInstance();
+//        Method setDao= cMetier.getDeclaredMethod("setDao", IDao.class);
+//        setDao.invoke(metier, d);
         System.out.println("RES="+metier.cacul());
     }
 }
