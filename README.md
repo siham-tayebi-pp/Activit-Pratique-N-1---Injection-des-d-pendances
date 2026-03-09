@@ -23,24 +23,7 @@ Ce TP permet de comprendre comment réduire le couplage entre les différentes c
 Le projet est structuré selon une architecture en couches :
 
 
-net.tayebi
-│
-├── dao
-│ ├── IDao.java
-│ └── DaoImpl.java
-│
-├── ext
-│ └── DaoImplV2.java
-│
-├── metier
-│ ├── IMetier.java
-│ └── IMetierImpl.java
-│
-└── presentation
-├── Pres1.java
-├── Pres2.java
-├── PresSpringXML.java
-└── PresSpringAnnotation.java
+<img width="295" height="427" alt="image" src="https://github.com/user-attachments/assets/d3d6c121-6e28-4828-b19d-4c02b80d3663" />
 
 
 ### Rôle des packages
@@ -266,8 +249,3 @@ Aujourd’hui, dans les projets professionnels, l’injection de dépendances es
 
 Repository Github
 
-
-
-- images pour GitHub
-
-👉 ça rend le repo **beaucoup plus professionnel** et ton prof verra que tu as vraiment compris.
