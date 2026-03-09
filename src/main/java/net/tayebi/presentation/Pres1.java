@@ -10,11 +10,11 @@ public class Pres1 {
         IMetierImpl metier= new IMetierImpl();
         metier.setDao(dao);
 //         on fait linjection des dependances via setter
-        System.out.println("RES="+metier.cacul());
+        System.out.println("RES="+metier.calcul());
 //    version capteur
         DaoImplV2 d = new DaoImplV2();
         IMetierImpl metier2= new IMetierImpl(d);
-        System.out.println("RES="+metier2.cacul());
+        System.out.println("RES="+metier2.calcul());
 
 
 

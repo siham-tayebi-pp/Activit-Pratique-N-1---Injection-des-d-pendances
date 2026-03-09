@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6289fe78-ffbe-46f7-9de4-d968dd4b314c" name="Changes" comment="third commit">
+    <list default="true" id="6289fe78-ffbe-46f7-9de4-d968dd4b314c" name="Changes" comment="fourth commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/tayebi/presentation/PresSpringXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/tayebi/metier/IMetier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/tayebi/metier/IMetier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/tayebi/metier/IMetierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/tayebi/metier/IMetierImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/tayebi/presentation/Pres1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/tayebi/presentation/Pres1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/tayebi/presentation/Pres2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/tayebi/presentation/Pres2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -54,6 +61,7 @@
   "keyToString": {
     "Application.Pres1.executor": "Run",
     "Application.Pres2.executor": "Run",
+    "Application.PresSpringXML.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -92,7 +100,7 @@
       <workItem from="1773011110301" duration="2545000" />
       <workItem from="1773013874148" duration="2316000" />
       <workItem from="1773016466906" duration="914000" />
-      <workItem from="1773017658559" duration="613000" />
+      <workItem from="1773017658559" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -134,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773017774107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fourth commit">
+      <option name="closed" value="true" />
+      <created>1773018320980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773018320980</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +183,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
