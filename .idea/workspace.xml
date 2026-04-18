@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;siham-tayebi-pp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/siham-tayebi-pp/Activit-Pratique-N-1---Injection-des-d-pendances.git&quot;,
-    &quot;accountId&quot;: &quot;7f897c20-7843-4372-9f8e-04e50fc12f4c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/siham-tayebi-pp/2-BDCC-J2EE-ioc-enset-bdcc.git",
+    "accountId": "7f897c20-7843-4372-9f8e-04e50fc12f4c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -60,7 +60,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Activit-Pratique-N-1---Injection-des-d-pendances",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/demo2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,7 +95,7 @@
       <workItem from="1773013874148" duration="2316000" />
       <workItem from="1773016466906" duration="914000" />
       <workItem from="1773017658559" duration="4660000" />
-      <workItem from="1776504357642" duration="30000" />
+      <workItem from="1776504357642" duration="969000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
